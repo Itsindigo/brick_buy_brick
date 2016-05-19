@@ -1,0 +1,89 @@
+
+
+/*Image Styling*/
+#banner-logo {
+  height: 60px;
+  width: 40px;
+}
+
+
+/*Invest/Buy section*/
+
+
+/*Waitlisted form*/
+.waitlisted-embed {
+  min-height: 385px;
+}
+
+/*Section headers*/
+.page-header.reduce-margin {
+  margin: 0px 0 20px;
+}
+
+.section-header {
+  margin: 10px 0px 0px 0px;
+  padding-bottom: 5px;
+}
+
+.section-header.extra-padding {
+  margin: 10px 0px 0px 0px;
+  padding-bottom: 15px;
+}
+
+.section-subheader {
+  padding-bottom: 15px;
+}
+
+
+.container.first {
+  height: 315px;
+  margin-bottom: 20px;
+}
+
+
+/*Ensures Navbar Scrolls Correctly*/
+html, body {
+    overflow: hidden;
+    height: 100%;
+}
+body {
+    padding-top: 50px;
+}
+.wrap {
+    height: 100%;
+    overflow: auto;
+}
+
+
+/*Paragraphing*/
+.center-paragraph {
+  display: block;
+  margin: auto;
+  width: 500px;
+}
+
+
+#jumbo-override {
+  padding-top: 40px;
+  margin-bottom: 0px;
+}
+
+/*Team panels*/
+
+.panel.panel-default {
+  width: 400px;
+  max-height: 150px;
+}
+
+.panel.panel-default.left-panel {
+  float: right;
+}
+
+.panel.panel-default.right-panel {
+  float: left;
+}
+
+/*Footer*/
+.footer {
+  padding-bottom: 25px;
+}
